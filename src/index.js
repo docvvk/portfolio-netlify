@@ -8,6 +8,7 @@ import 'react-mdl/extra/material.css';
 import 'react-mdl/extra/material.js';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'font-awesome/css/font-awesome.css';
+require('dotenv').config();
 
 ReactDOM.render(
 <BrowserRouter>
