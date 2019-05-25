@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/portfolio-netlify/static/media/la.3d622932.svg"
   },
   {
-    "revision": "1e020c00bc730fba5726",
+    "revision": "320307bdfc4e4d9bd5fb",
     "url": "/portfolio-netlify/static/css/main.d8ae9aa8.chunk.css"
   },
   {
@@ -464,8 +464,8 @@ self.__precacheManifest = [
     "url": "/portfolio-netlify/static/media/kz.130a3907.svg"
   },
   {
-    "revision": "1e020c00bc730fba5726",
-    "url": "/portfolio-netlify/static/js/main.1db383ba.chunk.js"
+    "revision": "320307bdfc4e4d9bd5fb",
+    "url": "/portfolio-netlify/static/js/main.9b53f7c8.chunk.js"
   },
   {
     "revision": "5e6ca7227e00e4baaaa70a01e6b5ae18",
@@ -916,19 +916,19 @@ self.__precacheManifest = [
     "url": "/portfolio-netlify/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/portfolio-netlify/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/portfolio-netlify/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/portfolio-netlify/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "d536108686d2a9d9af66",
     "url": "/portfolio-netlify/static/css/2.7320dd2a.chunk.css"
   },
   {
-    "revision": "0816e5f35c11dac50686ddded0d7d933",
+    "revision": "8648727cb30f7191949bdc29a3579899",
     "url": "/portfolio-netlify/index.html"
   }
 ];
