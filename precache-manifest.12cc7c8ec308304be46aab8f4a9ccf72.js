@@ -928,7 +928,7 @@ self.__precacheManifest = [
     "url": "/portfolio-netlify/static/css/2.7320dd2a.chunk.css"
   },
   {
-    "revision": "f8a449b514a2f9cdfdee05d568dcb544",
+    "revision": "0816e5f35c11dac50686ddded0d7d933",
     "url": "/portfolio-netlify/index.html"
   }
 ];

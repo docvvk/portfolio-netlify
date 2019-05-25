@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/portfolio-netlify/precache-manifest.9dac091ec91369cddf3ad5533d0e89e6.js"
+  "/portfolio-netlify/precache-manifest.12cc7c8ec308304be46aab8f4a9ccf72.js"
 );
 
 workbox.clientsClaim();
