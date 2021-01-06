@@ -5,7 +5,7 @@
   "homepage": "https://docvvk.github.io/portfolio-netlify",
   "dependencies": {
     "@front10/landing-page-book": "^2.0.0-beta.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.5",
     "bootstrap": "^4.3.1",
     "dotenv": "^8.0.0",
